@@ -43,9 +43,3 @@ Antes de entrenar los modelos, se realizaron los siguientes pasos de preprocesam
 - Transformación de variables sesgadas (log transformation)
 - Normalización de variables numéricas (StandardScaler)
 - Codificación de variables categóricas (One-Hot Encoding)
-
-🏆 Resultados
-Tras probar y comparar diferentes modelos, se concluyó que Random Forest era el más efectivo, obteniendo una precisión del 86.23% en el conjunto de prueba. La red neuronal mostró un rendimiento cercano, pero con indicios de sobreajuste.
-
-📜 Licencia
-Este proyecto está bajo la licencia MIT, lo que permite su uso, modificación y distribución. Consulta el archivo LICENSE para más detalles.
